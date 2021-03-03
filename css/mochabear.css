@@ -1,0 +1,26 @@
+body {
+	background-color: fuchsia;
+	background-image: url(http://www.skobertech.com/images/mochabear/street.jpg);
+	background-position: center top;
+	background-repeat: no-repeat;
+	top: auto;
+}
+
+.left {
+	text-align: left;
+}
+
+.center {
+	text-align: center;
+}
+
+.right {
+	text-align: right;
+}
+
+#container {
+	background-color: transparent;
+	border-color: black;
+	border-width: 1pt;
+	width: 85%;
+}
